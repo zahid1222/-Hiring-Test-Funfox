@@ -1,0 +1,67 @@
+/* src/styles.css */
+/* ... (previously defined styles) */
+
+li {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  li h3 {
+    margin-bottom: 10px;
+  }
+  
+  li button {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-top: 5px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    li {
+      flex-direction: row;
+      align-items: center;
+    }
+  
+    li h3 {
+      margin: 0 10px 0 0;
+    }
+  
+    li button {
+      margin-top: 0;
+    }
+  }
+/* src/styles.css */
+/* ... (previously defined styles) */
+
+li {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  li h3 {
+    margin-bottom: 10px;
+  }
+  
+  li button {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-top: 5px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    li {
+      flex-direction: row;
+      align-items: center;
+    }
+  
+    li h3 {
+      margin: 0 10px 0 0;
+    }
+  
+    li button {
+      margin-top: 0;
+    }
+  }
+    
