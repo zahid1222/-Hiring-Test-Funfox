@@ -1,0 +1,14 @@
+Note : 
+  step 1: npm install  ( if the node module not install)
+  step 2: npm run 
+
+  All the process will be run by automatically you just need to write title and description 
+  and test all the functionality of test Every task will be executing.....
+    
+ Dependices:
+            npm install react-dnd react-dnd-html5-backend
+
+
+Note: Ignore all unrealted files like services Navbar , home etc
+
+  "Unlocking Opportunities our Journey with Hiring Starts Here!"
